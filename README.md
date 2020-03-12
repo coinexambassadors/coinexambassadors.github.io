@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+![CoinEx](https://www.coinex.com/assets/img/common/coin-ex-logo.svg)
+## Welcome to CoinEx Ambassadors GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/coinexambassadors/coinexambassadors.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
